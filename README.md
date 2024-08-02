@@ -23,7 +23,7 @@ Chiventure is a text-based adventure game built in C. It features dynamic gamepl
 ### Warmup Project
 **Repository:** [Warmup Project](https://github.com/Purrsephone/warmup_project)
 
-This project serves as an introductory exercise to familiarize myself with basic coding concepts. It includes several small programming tasks that cover fundamental principles and help build a solid foundation for future projects.
+This project was assiged in my introduction to robotics class in college. It includes several small programming tasks that cover fundamental principles and help build a solid foundation for future projects.
 
 ### Particle Filter Localization
 **Repository:** [Particle Filter Localization](https://github.com/Purrsephone/particle_filter_localization_project)
@@ -38,22 +38,22 @@ A reinforcement learning project that implements the Q-learning algorithm to tra
 ### Tom and Jerry Game
 **Repository:** [Tom and Jerry Game](https://github.com/Purrsephone/tom-jerry)
 
-This is a simple game inspired by the classic cartoon, featuring Tom and Jerry. The project showcases game design principles, character mechanics, and basic collision detection. It's a fun way to apply programming concepts in game development.
+This is a simple game inspired by the classic cartoon, featuring Tom and Jerry. The project showcases game design principles, character mechanics, and basic collision detection. 
 
 ### Lab 3
 **Repository:** [Lab 3](https://github.com/Purrsephone/lab3)
 
-Lab 3 is a project focused on applying learned concepts from previous lessons. It involves implementing specific algorithms and demonstrating proficiency in problem-solving techniques through coding exercises.
+Lab 3 is a project from my Computer Architecture class in college. It involves implementing an optimization called branch prediction in C.
 
 ### Basketball Stats
 **Repository:** [Basketball Stats](https://github.com/Purrsephone/Basketball_Stats)
 
-A data analysis project that analyzes basketball game statistics. It includes data visualization and statistical analysis techniques to provide insights into player performance and team dynamics.
+A data analysis project that analyzes binary input representing "made" or "missed" basketball shots to investigate the "hot hands" theory. 
 
 ### LESA-EACL-2021
 **Repository:** [LESA-EACL-2021](https://github.com/Purrsephone/LESA-EACL-2021)
 
-This repository is a forked project used for testing potential applications to a separate project. It contains code related to natural language processing and machine learning, which may be relevant for future development.
+This repository is a forked project used for testing potential algorithms for the Rattle start-up app. It involves applying linguistic theories to the problem of claim detection in natural language processsing.  
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/sophie-veys-93ab34272/) and [Google Scholar](https://scholar.google.com/citations?user=Yagd3CIAAAAJ&hl=en)! 
 
